@@ -1,2 +1,2 @@
-# math_concepts
-representing mathmatics concepts
+# concepts
+representing mathmatical or any concepts
